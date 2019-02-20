@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: json-api
+Version: 0.1.10
+Summary: Make you focus on writting business logic code, just return dict data for API, or other Response directly.
+Home-page: https://github.com/weaming/json-api
+Author: weaming
+Author-email: garden.yuen@gmail.com
+License: UNKNOWN
+Project-URL: Source, https://github.com/weaming/json-api
+Project-URL: Bug Reports, https://github.com/weaming/json-api
+Keywords: abstract json api
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# JSON API
+
+Make you focus on writting business logic code, just return dict data for API, or other Response directly.
+
+What you need to do is inherit the Magic class and overwrite several methods, then use method it provides to add route to your framework app.
+
+```
+pip3 install json-api
+```
+
+
+
